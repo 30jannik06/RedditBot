@@ -5,7 +5,7 @@ class Config {
     constructor() {
         this.token =
             "BOT_TOKEN_HERE";
-        this.prefix = "$";
+        this.prefix = "PREFIX_HERE";
     }
 }
 
