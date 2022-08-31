@@ -50,5 +50,5 @@
 >
 >- [X] Send Meme from Reddit to Discord Chat.
 >
->![TypeScript](https://img.shields.io/badge/Language-Typescript-2f74c0)<br>
->![Discord](https://img.shields.io/badge/Using-Discord.js-535fee)
+>![TypeScript](https://img.shields.io/badge/Language-Typescript-3178C6?style=for-the-badge&logo=TypeScript)<br>
+>![Discord](https://img.shields.io/badge/Using-Discord.js-5865F2?style=for-the-badge&logo=Discord)
